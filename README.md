@@ -1,9 +1,6 @@
 # AI-Generated-Imagery-with-Stable-Diffusion
 <h2> Objective : </h2>
-This project utilizes the power of the Stable Diffusion model to generate high-quality, detailed images from text prompts. By leveraging pre-trained models such as Dreamlike Diffusion and custom prompts.
-# AI-Generated Imagery with Stable Diffusion
-
-This project provides a framework for generating AI artwork using the Stable Diffusion model. The goal is to create compelling images based on text prompts, utilizing the **Dreamlike Diffusion** model to bring creative ideas to life.
+This project utilizes the power of the Stable Diffusion model to generate high-quality, detailed images from text prompts. By leveraging pre-trained models such as Dreamlike Diffusion and custom prompts.<br>
 
 ## Features
 
